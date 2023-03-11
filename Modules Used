@@ -1,0 +1,9 @@
+1. tkinter: It is a standard GUI library. It helps in easily creating the GUI Application.
+    > Import the Tkinter module.
+    > Create the GUI application main window.
+    > Add one or more of the above-mentioned widgets to the GUI application.
+    > Enter the main event loop to take action against each event triggered by the user.
+2. datetime: This module helps work with date, time and time intervals 
+3. time: It provides various time-related functions like getting current time as shown in this project.
+4. winsound: It provides access to the basic sound-playing machinery provided by Windows platforms. It includes functions and several constants.
+5. threading: This module provides classes and methods to create and start threads in python to implement multithreading helping to do multiple tasks.
